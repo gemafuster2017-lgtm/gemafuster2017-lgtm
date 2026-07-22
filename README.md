@@ -28,4 +28,4 @@ Especializada en el preprocesamiento avanzado, control de calidad (Data Quality)
 * **Estándares de Salud:** HL7 FHIR Standard, LOINC catalogs, SNOMED-CT ontologies, UCUM syntax.
 * **Áreas de Enfoque:** Genómica espacial, rutas de señalización celular, arquitectura SaaS de salud, seguridad del dato clínico y gobernanza institucional (RGPD/ENS).
 
-**Contacto Profesional:** gema.fuster@hotmail.com | [Mi perfil verificado en LinkedIn](www.linkedin.com/in/gemma-fuster-abril-7236aa1b8)
+**Contacto Profesional:** gema.fuster@hotmail.com | Mi perfil verificado en LinkedIn: www.linkedin.com/in/gemma-fuster-abril-7236aa1b8
